@@ -1,0 +1,10 @@
+a= float(input("masukan angka a ="))
+b= float(input("masukan angka b ="))
+import math
+print("jumlah dari dua variable", a+b)
+print("jumalah dari dua variable", abs(a-b))
+print("jumalah dari dua variable", a*b)
+print("jumalah dari dua variable", a%b)
+print("jumalah dari dua variable", a/b)
+print("jumalah dari dua variable", a**b)
+print(math.log10(a))
